@@ -1,0 +1,34 @@
+1. Para que usan Analisis de Datos en la ACP
+2. Que usan para Analisis de Datos, excel, python, mysql
+3. Como visualizan: power bi tableau, otros
+4. Cuanto tiempo lleva siendo Analista de Datos
+5. Recibio alguna orientacion para dar respuesta a las preguntas de negocio que puedan tener, es decir la ACP le dijo nosotros queremos q usted use esto_____ excel, por ejemplo para llegar cierta solucion
+6. Como diria que se paga la posicion en Panama? 
+Menos de $2000
+Entre $2000 y $3000
+mas de $3000
+Cualquier otro dato que desee agregar seria excelente
+
+Un poco de mi: Egresado de la UTP, Facultad de Sistemas, me gusta jugar y manipular datos y para ello utilizo principalmente excel. 
+Me he propuesto un tiempo x para desarrollarme como analista de datos ya que se que es una profesion altamente demanda y muy bien renumerada.
+
+
+Por el momento mi recursos son basicamente: Youtube, datacamp, udemy (entre otros) algunos libros de kindle y pdf's, medium, un cuaderno y varios lapices.
+Mi meta es aprender lo basico/intermedio de los siguientes skills:
+- Mysql
+- excel
+-Python y/o R
+- Un poco de GIT para control de versiones
+- Power Bi para visualizacion
+
+He buscado localmente para ver si hay grupo como existen en otras disciplinas tecnologicas, pero no he encontrado ningun por el momento, al menos no local. 
+
+Agradezco el tiempo que se tomo para revisar mi peticion y cualquier feedback es de gran ayuda.
+
+
+
+Enlace para ingresar a la sesión:
+https://us02web.zoom.us/j/82445468931?pwd=cXVwR2F5OHpDSlp4bWJ3R05GQWR4UT09
+
+Meeting ID: 824 4546 8931
+Passcode: 465267
